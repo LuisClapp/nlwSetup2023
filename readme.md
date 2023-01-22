@@ -34,9 +34,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O habits é um projeto para rastrear os hábitos.
 
+- [Visite o projeto online] (https://LuisClapp.github.io/nlwSetup2023)
+
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/krWKK9DnElTaSsExUpibsB/Habits-(e)-(Community)?node-id=75%3A128&t=SXC9zW1JSkxnNjFk-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
@@ -44,4 +46,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by LuísClapp no nLWsETuP 2023 :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
