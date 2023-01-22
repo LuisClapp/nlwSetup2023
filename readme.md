@@ -46,4 +46,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by LuísClapp no nLWsETuP 2023 :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by LuísClapp no nLWsETuP 2023 :wave: [Participe da comunidade da Rocketseat!🚀](https://discord.gg/rocketseat)
